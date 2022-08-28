@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @amirmoeed1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+##Real Estate App
+**Features**
 
-<!---
-amirmoeed1/amirmoeed1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Following are the main features of this app:
+
+* User Authentication.
+* Adding / Removing Properties.
+* Viewing Properties.
+* Filtering Properties by city and by sale/rent.
+* Searching Properties.
+* Listing Recently added properties.
+* Contacting owner by email.
+* Viewing Property's location on Map.
+
+**Tools and Technologies**
+
+Following Tools and Technologies are used in development
+
+* Node.js
+* Express.js
+* React.js
+* MongoDB
+* Redux
+* Reactstrap
+* Passport.js
